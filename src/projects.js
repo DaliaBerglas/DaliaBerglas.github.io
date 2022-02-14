@@ -9,11 +9,11 @@ export default () => {
                     <Col>
                         <Card style={{ width: '18rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 1</Card.Title>
+                                <Card.Title>Bridal Planner Application</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                    Assisting brides in planning every step of their wedding
                                 </Card.Text>
-                                <Button onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button onClick={() => window.open("https://github.com/DaliaBerglas/BridalPlanner")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
